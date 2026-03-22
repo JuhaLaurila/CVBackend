@@ -7,6 +7,8 @@ const cors = require('cors')
 
 app.use(cors())
 
+app.use(express.static('dist'))
+
 let osaamiset = [
   {
     id: "1",
@@ -219,6 +221,8 @@ let opinnot = [
       important: true
     }
 ]
+
+
 
 app.get('/api/osaamiset/:id', (request, response) => {
   const id = request.params.id
