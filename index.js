@@ -67,7 +67,7 @@ let osaamiset = [
     {
       id: "10",
       nimi: "Tietotekniikka",
-      sisalto: "Ohjelmointi (C/C++, Javascript, Python, Java), netti/sulautetut/mobiili",
+      sisalto: "Ohjelmointi (C/C++, C#, Javascript, Python, Java), netti/sulautetut/mobiili",
       important: true
       },
     {
@@ -76,6 +76,8 @@ let osaamiset = [
       sisalto: "Älykkäät järjestelmät, suunnittelu ja prototyypit",
       important: true
       },
+
+      
     {
       id: "12",
       nimi: "",
@@ -94,7 +96,7 @@ let osaamiset = [
 let tyot = [
   {
       id: "14",
-      nimi: "Ideasampo Oy",
+      nimi: "Ideasampo Oy 1995-2003",
       sisalto: "AD-assistentti",
       important: true
     },
@@ -107,13 +109,13 @@ let tyot = [
     {
       id: "16",
       nimi: "",
-      sisalto: "nettisivut",
+      sisalto: "Nettisivujen suunnittelu ja toteutus",
       important: true
     },
       {
       id: "17",
-      nimi: "Ouman Oy",
-      sisalto: "tuote- ja UI-suunnittelu",
+      nimi: "Ouman Oy 2003-2008",
+      sisalto: "Markkinointiviestintä",
       important: true
     },
     
@@ -127,12 +129,12 @@ let tyot = [
       {
       id: "19",
       nimi: "",
-      sisalto: "tuote- ja UI-suunnittelu",
+      sisalto: "Tuote- ja UI-suunnittelu",
       important: true
     },
     {
       id: "20",
-      nimi: "Suomen Kiintokaluste Oy",
+      nimi: "Suomen Kiintokaluste Oy 2008-2014",
       sisalto: "Markkinointiviestintä",
       important: true
     },
@@ -151,7 +153,7 @@ let tyot = [
     },
     {
       id: "23",
-      nimi: "Jukkatalo Oy",
+      nimi: "Jukkatalo Oy 2016-2020",
       sisalto: "Tuoteasiantuntija",
       important: true
     },
@@ -176,10 +178,19 @@ let tyot = [
     },
     {
       id: "27",
-      nimi: "Omatalo Oy",
-      sisalto: "Markkinointipäällikkö, suunnittelu ja toteutus",
+      nimi: "Omatalo Oy 2022-",
+      sisalto: "Markkinointipäällikkö",
       important: true
     },
+
+    ,
+    {
+      id: "271",
+      nimi: "",
+      sisalto: "Markkinointi, printti ja sähköiset mediat",
+      important: true
+    },
+
     {
       id: "28",
       nimi: "",
@@ -192,32 +203,65 @@ let tyot = [
       nimi: "",
       sisalto: "Tarjouslaskenta",
       important: true
+    },
+    {
+      id: "29",
+      nimi: "",
+      sisalto: "Kehitysprojektit",
+      important: true
     }
 ]
 
 let opinnot = [
   {
       id: "30",
-      nimi: "Ylioppilas",
+      nimi: "Ylioppilas 1989",
       sisalto: "Pateniemen lukio",
       important: true
     },
     {
       id: "31",
-      nimi: "Artenomi, muotoilu",
+      nimi: "Artenomi, muotoilu 1994",
       sisalto: "Rovaniemen taide- ja käsiteollisuusoppilaitos",
       important: true
     },
     {
       id: "32",
-      nimi: "Graafinen suunnittelija",
+      nimi: "Graafinen suunnittelija 1996",
       sisalto: "Ideasampo Oy",
       important: true
     },
     {
        id: "33",
-      nimi: "Insinööri, tieto- ja viestintätekniikka",
+      nimi: "Insinööri, tieto- ja viestintätekniikka 2026",
       sisalto: "Kajaanin ammattikorkeakoulu",
+      important: true
+    }
+    ,
+    {
+       id: "34",
+      nimi: "Atk-jatkokurssi 1995",
+      sisalto: "Rovaniemen taide- ja käsiteollisuusoppilaitos",
+      important: true
+    }
+     ,
+    {
+       id: "35",
+      nimi: "Solidworks- ja Autocad-kurssi 2014",
+      sisalto: "Teuvan aikuiskoulutuskeeskus",
+      important: true
+    },
+    {
+       id: "36",
+      nimi: "Venäjää aakkosista asiakaspalveluun 2014",
+      sisalto: "Kaukametsän opisto",
+      important: true
+    }
+    ,
+    {
+       id: "37",
+      nimi: "3dsMAX-kurssi 2018",
+      sisalto: "Arksystems Oy",
       important: true
     }
 ]
