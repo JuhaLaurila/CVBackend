@@ -22,6 +22,7 @@ let osaamiset = [
     sisalto: "Kuvankäsittely, valo- ja videokuvaus",
     important: true
   },
+
    { id: "3",
       nimi: "",
       sisalto: "Sähköinen viestintä (netti, some, sisäinen viestintä)",
@@ -185,27 +186,27 @@ let tyot = [
 
     ,
     {
-      id: "271",
+      id: "28",
       nimi: "",
       sisalto: "Markkinointi, printti ja sähköiset mediat",
       important: true
     },
 
     {
-      id: "28",
+      id: "29",
       nimi: "",
       sisalto: "Myynnin tuki",
       important: true
     }
     ,
     {
-      id: "29",
+      id: "30",
       nimi: "",
       sisalto: "Tarjouslaskenta",
       important: true
     },
     {
-      id: "29",
+      id: "31",
       nimi: "",
       sisalto: "Kehitysprojektit",
       important: true
@@ -214,52 +215,52 @@ let tyot = [
 
 let opinnot = [
   {
-      id: "30",
+      id: "32",
       nimi: "Ylioppilas 1989",
       sisalto: "Pateniemen lukio",
       important: true
     },
     {
-      id: "31",
+      id: "33",
       nimi: "Artenomi, muotoilu 1994",
       sisalto: "Rovaniemen taide- ja käsiteollisuusoppilaitos",
       important: true
     },
     {
-      id: "32",
+      id: "34",
       nimi: "Graafinen suunnittelija 1996",
       sisalto: "Ideasampo Oy",
       important: true
     },
     {
-       id: "33",
+       id: "35",
       nimi: "Insinööri, tieto- ja viestintätekniikka 2026",
       sisalto: "Kajaanin ammattikorkeakoulu",
       important: true
     }
     ,
     {
-       id: "34",
+       id: "36",
       nimi: "Atk-jatkokurssi 1995",
       sisalto: "Rovaniemen taide- ja käsiteollisuusoppilaitos",
       important: true
     }
      ,
     {
-       id: "35",
+       id: "37",
       nimi: "Solidworks- ja Autocad-kurssi 2014",
       sisalto: "Teuvan aikuiskoulutuskeeskus",
       important: true
     },
     {
-       id: "36",
+       id: "38",
       nimi: "Venäjää aakkosista asiakaspalveluun 2014",
       sisalto: "Kaukametsän opisto",
       important: true
     }
     ,
     {
-       id: "37",
+       id: "39",
       nimi: "3dsMAX-kurssi 2018",
       sisalto: "Arksystems Oy",
       important: true
