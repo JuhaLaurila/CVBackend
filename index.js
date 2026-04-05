@@ -184,7 +184,7 @@ let tyot = [
       important: true
     },
 
-    ,
+    
     {
       id: "28",
       nimi: "",
