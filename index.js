@@ -40,57 +40,59 @@ let osaamiset = [
       sisalto: "Solidworks",
       important: true
       },
-    {
+
+         {
       id: "6",
-      nimi: "Käden taidot",
-      sisalto: "Muotoilu ja tuotesuunnittelu",
-      important: true
-      },
-    {
-      id: "7",
-      nimi: "",
-      sisalto: "Rakentaminen ja remontointi",
-      important: true
-      },
-    {
-      id: "8",
-      nimi: "",
-      sisalto: "Tekniset työt, korjaukset",
-      important: true
-      },
-    {
-      id: "9",
-      nimi: "",
-      sisalto: "Taiteet",
-      important: true
-      }
-      ,
-    {
-      id: "10",
       nimi: "Tietotekniikka",
       sisalto: "Ohjelmointi (C/C++, C#, Javascript, Python, Java), netti/sulautetut/mobiili",
       important: true
       },
     {
-      id: "11",
+      id: "7",
       nimi: "",
       sisalto: "Älykkäät järjestelmät, suunnittelu ja prototyypit",
       important: true
       },
-
       
     {
-      id: "12",
+      id: "8",
       nimi: "",
       sisalto: "Tekoäly",
       important: true
       },
+
+ 
     {
-      id: "13",
+      id: "9",
       nimi: "Valo- ja videokuvaus",
       sisalto: "Tuotekuvaus, muotokuvaus, dokumentointikuvaus",
       important: true
+      },
+    {
+      id: "10",
+      nimi: "Käden taidot",
+      sisalto: "Muotoilu ja tuotesuunnittelu",
+      important: true
+      },
+    {
+      id: "11",
+      nimi: "",
+      sisalto: "Rakentaminen ja remontointi",
+      important: true
+      },
+    {
+      id: "12",
+      nimi: "",
+      sisalto: "Tekniset työt, korjaukset",
+      important: true
+      },
+    {
+      id: "13",
+      nimi: "",
+      sisalto: "Taiteet",
+      important: true
       }
+     
 ]
 
 
