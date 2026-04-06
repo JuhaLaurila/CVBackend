@@ -10,24 +10,59 @@ app.use(cors())
 app.use(express.static('dist'))
 
 let osaamiset = [
-  {
+
+    {
     id: "1",
     nimi: "Markkinointiviestintä",
-    sisalto: "Esitteet, kuvastot, pakkaukset, messut ym. painettu materiaali",
+    sisalto: "Markkinointiviestinnän kokonaisvastuu",
     important: true
   },
   {
-    id: "2",
+    id: "1b",
     nimi: "",
-    sisalto: "Kuvankäsittely, valo- ja videokuvaus",
+    sisalto: "Sanallinen ja visuaalinen viestintä, graafinen suunnittelu ja sisällöntuotanto",
     important: true
   },
 
-   { id: "3",
+  { id: "2",
       nimi: "",
-      sisalto: "Sähköinen viestintä (netti, some, sisäinen viestintä)",
+      sisalto: "Nettisivujen suunnittelu, toteutus ja sisällöntuotanto", 
       important: true
-    },
+  },
+
+  { id: "2a",
+      nimi: "",
+      sisalto: "Somekanavien sisällöntuotanto", 
+      important: true
+  },
+
+    { id: "2b",
+      nimi: "",
+      sisalto: "SEO, e-markkinointi, analytiikka", 
+      important: true
+  },
+
+  {
+    id: "2c",
+    nimi: "",
+    sisalto: "Esitteet, kuvastot, pakkaukset, julisteet ym. painettu materiaali",
+    important: true
+  },
+    {
+    id: "3",
+    nimi: "",
+    sisalto: "Kampanja- ja messusuunnittelu",
+    important: true
+  },
+
+    {
+    id: "3a",
+    nimi: "",
+    sisalto: "Kuvankäsittely, videoeditointi, valo- ja videokuvaus",
+    important: true
+  },
+
+
     {
       id: "4",
       nimi: "3D ja visualisointi",
