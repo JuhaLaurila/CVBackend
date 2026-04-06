@@ -147,7 +147,7 @@ let osaamiset = [
     {
       id: "9",
       nimi: "Valo- ja videokuvaus",
-      sisalto: "Tuotekuvaus, muotokuvaus, dokumentointikuvaus",
+      sisalto: "Tuote- ja dokumentointikuvaus, luonto- ja henkilökuvaus",
       important: true
       },
     {
