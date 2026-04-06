@@ -14,25 +14,25 @@ let osaamiset = [
     {
     id: "1",
     nimi: "Markkinointiviestintä",
-    sisalto: "Markkinointiviestinnän kokonaisvastuu",
+    sisalto: "mrkkinointiviestinnän kokonaisvastuu",
     important: true
   },
   {
     id: "1b",
     nimi: "",
-    sisalto: "Sanallinen ja visuaalinen viestintä, graafinen suunnittelu ja sisällöntuotanto",
+    sisalto: "sanallinen ja visuaalinen viestintä, graafinen suunnittelu ja sisällöntuotanto",
     important: true
   },
 
   { id: "2",
       nimi: "",
-      sisalto: "Nettisivujen suunnittelu, toteutus ja sisällöntuotanto", 
+      sisalto: "nettisivujen suunnittelu, toteutus ja sisällöntuotanto", 
       important: true
   },
 
   { id: "2a",
       nimi: "",
-      sisalto: "Somekanavien sisällöntuotanto", 
+      sisalto: "somekanavien sisällöntuotanto", 
       important: true
   },
 
@@ -45,20 +45,20 @@ let osaamiset = [
   {
     id: "2c",
     nimi: "",
-    sisalto: "Esitteet, kuvastot, pakkaukset, julisteet ym. painettu materiaali",
+    sisalto: "esitteet, kuvastot, pakkaukset, julisteet ym. painettu materiaali",
     important: true
   },
     {
     id: "3",
     nimi: "",
-    sisalto: "Kampanja- ja messusuunnittelu",
+    sisalto: "kampanja- ja messusuunnittelu",
     important: true
   },
 
     {
     id: "3a",
     nimi: "",
-    sisalto: "Kuvankäsittely, videoeditointi, valo- ja videokuvaus",
+    sisalto: "kuvankäsittely, videoeditointi, valo- ja videokuvaus",
     important: true
   },
 
@@ -78,7 +78,7 @@ let osaamiset = [
 
          {
       id: "6",
-      nimi: "Tietotekniikka",
+      nimi: "tietotekniikka",
       sisalto: "Ohjelmointi (C/C++, C#, Javascript, Python, Java)",
       important: true
       },
@@ -91,14 +91,14 @@ let osaamiset = [
     {
       id: "7a",
       nimi: "",
-      sisalto: "Mobiiliohjelmointi (Android Studio: Java + XML)",
+      sisalto: "mobiiliohjelmointi (Android Studio: Java + XML)",
       important: true
       },
       
     {
       id: "7b",
       nimi: "",
-      sisalto: "Käyttöliittymäsuunnittelu (QT: C++ + QML)",
+      sisalto: "käyttöliittymäsuunnittelu (QT: C++ + QML)",
       important: true
       },
          {
@@ -111,35 +111,35 @@ let osaamiset = [
     {
       id: "7d",
       nimi: "",
-      sisalto: "Tietokannat (Maria DB, Mongo, Timestream)",
+      sisalto: "tietokannat (Maria DB, Mongo, Timestream)",
       important: true
       },
       
     {
       id: "7e",
       nimi: "",
-      sisalto: "Pilvipalvelut (AWS, Azure)",
+      sisalto: "pilvipalvelut (AWS, Azure)",
       important: true
       },
       
     {
       id: "7e",
       nimi: "",
-      sisalto: "Versionhallinta (Git), CI/CD, DevOps",
+      sisalto: "versionhallinta (Git), CI/CD, DevOps",
       important: true
       },
       
     {
       id: "7f",
       nimi: "",
-      sisalto: "Datan visualisointi(Grafana, PowerBI)",
+      sisalto: "datan visualisointi(Grafana, PowerBI)",
       important: true
       },
       
     {
       id: "7g",
       nimi: "",
-      sisalto: "Tekoäly, supertietokoneet, tietoturva",
+      sisalto: "tekoäly, supertietokoneet, tietoturva",
       important: true
       },
 
@@ -147,31 +147,31 @@ let osaamiset = [
     {
       id: "9",
       nimi: "Valo- ja videokuvaus",
-      sisalto: "Tuote- ja dokumentointikuvaus, luonto- ja henkilökuvaus",
+      sisalto: "tuote- ja dokumentointikuvaus, luonto- ja henkilökuvaus",
       important: true
       },
     {
       id: "10",
       nimi: "Käden taidot",
-      sisalto: "Muotoilu ja tuotesuunnittelu",
+      sisalto: "muotoilu ja tuotesuunnittelu",
       important: true
       },
     {
       id: "11",
       nimi: "",
-      sisalto: "Rakentaminen ja remontointi",
+      sisalto: "rakentaminen ja remontointi",
       important: true
       },
     {
       id: "12",
       nimi: "",
-      sisalto: "Tekniset työt, korjaukset",
+      sisalto: "tekniset työt, korjaukset",
       important: true
       },
     {
       id: "13",
       nimi: "",
-      sisalto: "Taiteet",
+      sisalto: "taiteet",
       important: true
       }
      
