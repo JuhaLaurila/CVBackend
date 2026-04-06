@@ -14,13 +14,13 @@ let osaamiset = [
     {
     id: "1",
     nimi: "Markkinointiviestintä",
-    sisalto: "mrkkinointiviestinnän kokonaisvastuu",
+    sisalto: "markkinointiviestinnän kokonaisvastuu",
     important: true
   },
   {
     id: "1b",
     nimi: "",
-    sisalto: "sanallinen ja visuaalinen viestintä, graafinen suunnittelu ja sisällöntuotanto",
+    sisalto: "sanallinen ja visuaalinen viestintä, graafinen suunnittelu",
     important: true
   },
 
@@ -78,8 +78,8 @@ let osaamiset = [
 
          {
       id: "6",
-      nimi: "tietotekniikka",
-      sisalto: "Ohjelmointi (C/C++, C#, Javascript, Python, Java)",
+      nimi: "Tietotekniikka",
+      sisalto: "ohjelmointi (C/C++, C#, Javascript, Python, Java)",
       important: true
       },
     {
@@ -91,14 +91,14 @@ let osaamiset = [
     {
       id: "7a",
       nimi: "",
-      sisalto: "mobiiliohjelmointi (Android Studio: Java + XML)",
+      sisalto: "mobiiliohjelmointi (Android Studio: Java / XML)",
       important: true
       },
       
     {
       id: "7b",
       nimi: "",
-      sisalto: "käyttöliittymäsuunnittelu (QT: C++ + QML)",
+      sisalto: "käyttöliittymäsuunnittelu (QT: C++ / QML)",
       important: true
       },
          {
@@ -188,83 +188,83 @@ let tyot = [
     {
       id: "15",
       nimi: "",
-      sisalto: "Graafinen suunnittelu, taitto ja kuvankäsittely",
+      sisalto: "graafinen suunnittelu, taitto ja kuvankäsittely",
       important: true
     },
     {
       id: "16",
       nimi: "",
-      sisalto: "Nettisivujen suunnittelu ja toteutus",
+      sisalto: "nettisivujen suunnittelu ja toteutus",
       important: true
     },
       {
       id: "17",
       nimi: "Ouman Oy 2003-2008",
-      sisalto: "Markkinointiviestintä",
+      sisalto: "markkinointiviestintä",
       important: true
     },
     
       {
       id: "18",
       nimi: "",
-      sisalto: "Graafinen suunnittelu",
+      sisalto: "graafinen suunnittelu",
       important: true
     },
     
       {
       id: "19",
       nimi: "",
-      sisalto: "Tuote- ja UI-suunnittelu",
+      sisalto: "tuote- ja UI-suunnittelu",
       important: true
     },
     {
       id: "20",
       nimi: "Suomen Kiintokaluste Oy 2008-2014",
-      sisalto: "Markkinointiviestintä",
+      sisalto: "markkinointiviestintä",
       important: true
     },
    
     {
       id: "21",
       nimi: "",
-      sisalto: "Myynnin tuki",
+      sisalto: "myynnin tuki",
       important: true
     },
     {
       id: "22",
       nimi: "",
-      sisalto: "Asiakaspalvelu",
+      sisalto: "asiakaspalvelu",
       important: true
     },
     {
       id: "23",
       nimi: "Jukkatalo Oy 2016-2020",
-      sisalto: "Tuoteasiantuntija",
+      sisalto: "tuoteasiantuntija",
       important: true
     },
     {
       id: "24",
       nimi: "",
-      sisalto: "Markkinointiviestintä",
+      sisalto: "markkinointiviestintä",
       important: true
     }
     ,
     {
       id: "25",
       nimi: "",
-      sisalto: "Tarjouslaskenta",
+      sisalto: "tarjouslaskenta",
       important: true
     },
     {
       id: "26",
       nimi: "",
-      sisalto: "Asiakasvastaava",
+      sisalto: "asiakasvastaava",
       important: true
     },
     {
       id: "27",
       nimi: "Omatalo Oy 2022-",
-      sisalto: "Markkinointipäällikkö",
+      sisalto: "markkinointipäällikkö",
       important: true
     },
 
@@ -272,27 +272,27 @@ let tyot = [
     {
       id: "28",
       nimi: "",
-      sisalto: "Markkinointi, printti ja sähköiset mediat",
+      sisalto: "markkinointi, printti ja sähköiset mediat",
       important: true
     },
 
     {
       id: "29",
       nimi: "",
-      sisalto: "Myynnin tuki",
+      sisalto: "myynnin tuki",
       important: true
     }
     ,
     {
       id: "30",
       nimi: "",
-      sisalto: "Tarjouslaskenta",
+      sisalto: "tarjouslaskenta",
       important: true
     },
     {
       id: "31",
       nimi: "",
-      sisalto: "Kehitysprojektit",
+      sisalto: "kehitysprojektit",
       important: true
     }
 ]
@@ -300,32 +300,32 @@ let tyot = [
 let opinnot = [
   {
       id: "32",
-      nimi: "Ylioppilas 1989",
+      nimi: "ylioppilas 1989",
       sisalto: "Pateniemen lukio",
       important: true
     },
     {
       id: "33",
-      nimi: "Artenomi, muotoilu 1994",
+      nimi: "artenomi, muotoilu 1994",
       sisalto: "Rovaniemen taide- ja käsiteollisuusoppilaitos",
       important: true
     },
     {
       id: "34",
-      nimi: "Graafinen suunnittelija 1996",
+      nimi: "graafinen suunnittelija 1996",
       sisalto: "Ideasampo Oy",
       important: true
     },
     {
        id: "35",
-      nimi: "Insinööri, tieto- ja viestintätekniikka 2026",
+      nimi: "insinööri, tieto- ja viestintätekniikka 2026",
       sisalto: "Kajaanin ammattikorkeakoulu",
       important: true
     }
     ,
     {
        id: "36",
-      nimi: "Atk-jatkokurssi 1995",
+      nimi: "atk-jatkokurssi 1995",
       sisalto: "Rovaniemen taide- ja käsiteollisuusoppilaitos",
       important: true
     }
@@ -338,7 +338,7 @@ let opinnot = [
     },
     {
        id: "38",
-      nimi: "Venäjää aakkosista asiakaspalveluun 2014",
+      nimi: "venäjää aakkosista asiakaspalveluun 2014",
       sisalto: "Kaukametsän opisto",
       important: true
     }
