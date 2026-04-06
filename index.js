@@ -65,7 +65,7 @@ let osaamiset = [
 
     {
       id: "4",
-      nimi: "3D ja visualisointi",
+      nimi: "3D, visualisointi ja animointi",
       sisalto: "3dsMAX",
       important: true
       },
@@ -79,20 +79,67 @@ let osaamiset = [
          {
       id: "6",
       nimi: "Tietotekniikka",
-      sisalto: "Ohjelmointi (C/C++, C#, Javascript, Python, Java), netti/sulautetut/mobiili",
+      sisalto: "Ohjelmointi (C/C++, C#, Javascript, Python, Java)",
       important: true
       },
     {
-      id: "7",
+      id: "6a",
       nimi: "",
-      sisalto: "Älykkäät järjestelmät, suunnittelu ja prototyypit",
+      sisalto: "nettisivukehitys (React, Node, asp.NET, Vue, html, php, JS, CSS ",
+      important: true
+      },
+    {
+      id: "7a",
+      nimi: "",
+      sisalto: "Mobiiliohjelmointi (Android Studio: Java + XML)",
       important: true
       },
       
     {
-      id: "8",
+      id: "7b",
       nimi: "",
-      sisalto: "Tekoäly",
+      sisalto: "Käyttöliittymäsuunnittelu (QT: C++ + QML)",
+      important: true
+      },
+         {
+      id: "7c",
+      nimi: "",
+      sisalto: "IoT-järjestelmät (Arduino, ESP32, Atmega, BLE, WiFi, LoRaWAN, suunnittelu, prototyypit)",
+      important: true
+      },
+      
+    {
+      id: "7d",
+      nimi: "",
+      sisalto: "Tietokannat (Maria DB, Mongo, Timestream)",
+      important: true
+      },
+      
+    {
+      id: "7e",
+      nimi: "",
+      sisalto: "Pilvipalvelut (AWS, Azure)",
+      important: true
+      },
+      
+    {
+      id: "7e",
+      nimi: "",
+      sisalto: "Versionhallinta (Git), CI/CD, DevOps",
+      important: true
+      },
+      
+    {
+      id: "7f",
+      nimi: "",
+      sisalto: "Datan visualisointi(Grafana, PowerBI)",
+      important: true
+      },
+      
+    {
+      id: "7g",
+      nimi: "",
+      sisalto: "Tekoäly, supertietokoneet, tietoturva",
       important: true
       },
 
