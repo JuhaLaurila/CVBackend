@@ -132,7 +132,7 @@ let osaamiset = [
     {
       id: "7f",
       nimi: "",
-      sisalto: "datan visualisointi(Grafana, PowerBI)",
+      sisalto: "datan visualisointi (Grafana, PowerBI)",
       important: true
       },
       
