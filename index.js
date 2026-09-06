@@ -61,6 +61,12 @@ let osaamiset = [
     sisalto: "kuvankäsittely, videoeditointi, valo- ja videokuvaus",
     important: true
   },
+   {
+    id: "3a",
+    nimi: "",
+    sisalto: "Adobe CC (Ps, Id, Pr, Ai), Office365 (Word, Excel, PP), Google, Meta,",
+    important: true
+  },
 
 
     {
@@ -179,89 +185,8 @@ let osaamiset = [
 
 
 let tyot = [
-  {
-      id: "14",
-      nimi: "Ideasampo Oy 1995-2003",
-      sisalto: "AD-assistentti",
-      important: true
-    },
-    {
-      id: "15",
-      nimi: "",
-      sisalto: "graafinen suunnittelu, taitto ja kuvankäsittely",
-      important: true
-    },
-    {
-      id: "16",
-      nimi: "",
-      sisalto: "nettisivujen suunnittelu ja toteutus",
-      important: true
-    },
-      {
-      id: "17",
-      nimi: "Ouman Oy 2003-2008",
-      sisalto: "markkinointiviestintä",
-      important: true
-    },
-    
-      {
-      id: "18",
-      nimi: "",
-      sisalto: "graafinen suunnittelu",
-      important: true
-    },
-    
-      {
-      id: "19",
-      nimi: "",
-      sisalto: "tuote- ja UI-suunnittelu",
-      important: true
-    },
-    {
-      id: "20",
-      nimi: "Suomen Kiintokaluste Oy 2008-2014",
-      sisalto: "markkinointiviestintä",
-      important: true
-    },
-   
-    {
-      id: "21",
-      nimi: "",
-      sisalto: "myynnin tuki",
-      important: true
-    },
-    {
-      id: "22",
-      nimi: "",
-      sisalto: "asiakaspalvelu",
-      important: true
-    },
-    {
-      id: "23",
-      nimi: "Jukkatalo Oy 2016-2020",
-      sisalto: "tuoteasiantuntija",
-      important: true
-    },
-    {
-      id: "24",
-      nimi: "",
-      sisalto: "markkinointiviestintä",
-      important: true
-    }
-    ,
-    {
-      id: "25",
-      nimi: "",
-      sisalto: "tarjouslaskenta",
-      important: true
-    },
-    {
-      id: "26",
-      nimi: "",
-      sisalto: "asiakasvastaava",
-      important: true
-    },
-    {
+
+   {
       id: "27",
       nimi: "Omatalo Oy 2022-",
       sisalto: "markkinointipäällikkö",
@@ -294,28 +219,101 @@ let tyot = [
       nimi: "",
       sisalto: "kehitysprojektit",
       important: true
+    },
+
+     {
+      id: "23",
+      nimi: "Jukkatalo Oy 2016-2020",
+      sisalto: "tuoteasiantuntija",
+      important: true
+    },
+    {
+      id: "24",
+      nimi: "",
+      sisalto: "markkinointi, printti ja sähköiset mediat",
+      important: true
     }
+    ,
+    {
+      id: "25",
+      nimi: "",
+      sisalto: "tarjouslaskenta",
+      important: true
+    },
+    {
+      id: "26",
+      nimi: "",
+      sisalto: "asiakasvastaava",
+      important: true
+    },
+
+     {
+      id: "20",
+      nimi: "Suomen Kiintokaluste Oy 2008-2014",
+      sisalto: "markkinointi, printti ja sähköiset mediat",
+      important: true
+    },
+   
+    {
+      id: "21",
+      nimi: "",
+      sisalto: "myynnin tuki",
+      important: true
+    },
+    {
+      id: "22",
+      nimi: "",
+      sisalto: "asiakaspalvelu",
+      important: true
+    },
+   
+    {
+      id: "17",
+      nimi: "Ouman Oy 2003-2008",
+      sisalto: "markkinointi, printti ja sähköiset mediat",
+      important: true
+    },
+    
+      {
+      id: "18",
+      nimi: "",
+      sisalto: "graafinen suunnittelu",
+      important: true
+    },
+    
+      {
+      id: "19",
+      nimi: "",
+      sisalto: "tuote- ja UI-suunnittelu",
+      important: true
+    },
+   
+  {
+      id: "14",
+      nimi: "Ideasampo Oy 1995-2003",
+      sisalto: "AD-assistentti",
+      important: true
+    },
+    {
+      id: "15",
+      nimi: "",
+      sisalto: "graafinen suunnittelu, taitto ja kuvankäsittely",
+      important: true
+    },
+    {
+      id: "16",
+      nimi: "",
+      sisalto: "nettisivujen suunnittelu ja toteutus",
+      important: true
+    },
+      
+   
 ]
 
 let opinnot = [
-  {
-      id: "32",
-      nimi: "ylioppilas 1989",
-      sisalto: "Pateniemen lukio",
-      important: true
-    },
-    {
-      id: "33",
-      nimi: "artenomi, muotoilu 1994",
-      sisalto: "Rovaniemen taide- ja käsiteollisuusoppilaitos",
-      important: true
-    },
-    {
-      id: "34",
-      nimi: "graafinen suunnittelija 1996",
-      sisalto: "Ideasampo Oy",
-      important: true
-    },
+  
+    
+    
     {
        id: "35",
       nimi: "insinööri, tieto- ja viestintätekniikka 2026",
@@ -324,9 +322,9 @@ let opinnot = [
     }
     ,
     {
-       id: "36",
-      nimi: "atk-jatkokurssi 1995",
-      sisalto: "Rovaniemen taide- ja käsiteollisuusoppilaitos",
+       id: "39",
+      nimi: "3dsMAX-kurssi 2018",
+      sisalto: "Arksystems Oy",
       important: true
     }
      ,
@@ -344,11 +342,29 @@ let opinnot = [
     }
     ,
     {
-       id: "39",
-      nimi: "3dsMAX-kurssi 2018",
-      sisalto: "Arksystems Oy",
+      id: "34",
+      nimi: "graafinen suunnittelija 1996",
+      sisalto: "Ideasampo Oy",
       important: true
-    }
+    },
+    {
+       id: "36",
+      nimi: "atk-jatkokurssi 1995",
+      sisalto: "Rovaniemen taide- ja käsiteollisuusoppilaitos",
+      important: true
+    },
+    {
+      id: "33",
+      nimi: "artenomi, muotoilu 1994",
+      sisalto: "Rovaniemen taide- ja käsiteollisuusoppilaitos",
+      important: true
+    },
+    {
+      id: "32",
+      nimi: "ylioppilas 1989",
+      sisalto: "Pateniemen lukio",
+      important: true
+    },
 ]
 
 
